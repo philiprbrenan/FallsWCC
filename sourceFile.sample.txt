@@ -1,0 +1,6 @@
+app FallsWCC   = First test Repo
+  maximages = 6
+  icon      = https://avatars1.githubusercontent.com/u/36668411?v=4
+  author    = 215MMS
+  email     = 36668411+215MMS@users.noreply.github.com
+
