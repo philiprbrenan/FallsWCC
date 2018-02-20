@@ -4,3 +4,83 @@ app FallsWCC   = First test Repo
   author    = 215MMS
   email     = 36668411+215MMS@users.noreply.github.com
 
+
+# Details of photo 20170723_173449
+photo 20170723_173449 = Title of 20170723_173449
+  url = 20170723_173449.jpg
+
+fact 20170723_173449.1 = First fact about 20170723_173449
+fact 20170723_173449.2 = Another fact about 20170723_173449
+
+
+# Details of photo 20170723_174449
+photo 20170723_174449 = Title of 20170723_174449
+  url = 20170723_174449.jpg
+
+fact 20170723_174449.1 = First fact about 20170723_174449
+fact 20170723_174449.2 = Another fact about 20170723_174449
+
+
+# Details of photo 20170723_205436
+photo 20170723_205436 = Title of 20170723_205436
+  url = 20170723_205436.jpg
+
+fact 20170723_205436.1 = First fact about 20170723_205436
+fact 20170723_205436.2 = Another fact about 20170723_205436
+
+
+# Details of photo IMG_8149
+photo IMG_8149 = Title of IMG_8149
+  url = IMG_8149.jpg
+
+fact IMG_8149.1 = First fact about IMG_8149
+fact IMG_8149.2 = Another fact about IMG_8149
+
+
+# Details of photo IMG_8163
+photo IMG_8163 = Title of IMG_8163
+  url = IMG_8163.jpg
+
+fact IMG_8163.1 = First fact about IMG_8163
+fact IMG_8163.2 = Another fact about IMG_8163
+
+
+# Details of photo brightlights
+photo brightlights = Title of brightlights
+  url = brightlights.jpg
+
+fact brightlights.1 = First fact about brightlights
+fact brightlights.2 = Another fact about brightlights
+
+
+# Details of photo distortedvision
+photo distortedvision = Title of distortedvision
+  url = distortedvision.jpg
+
+fact distortedvision.1 = First fact about distortedvision
+fact distortedvision.2 = Another fact about distortedvision
+
+
+# Details of photo rug
+photo rug = Title of rug
+  url = rug.jpg
+
+fact rug.1 = First fact about rug
+fact rug.2 = Another fact about rug
+
+
+# Details of photo screenshot
+photo screenshot = Title of screenshot
+  url = screenshot.png
+
+fact screenshot.1 = First fact about screenshot
+fact screenshot.2 = Another fact about screenshot
+
+
+# Details of photo waterspill
+photo waterspill = Title of waterspill
+  url = waterspill.jpg
+
+fact waterspill.1 = First fact about waterspill
+fact waterspill.2 = Another fact about waterspill
+
