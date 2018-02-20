@@ -1,1 +1,58 @@
-# Place your app description in this file
+app    FallsWCC                     =  Falls WCC                                                                  
+       author                       =  215MMS                                                                                            
+       description                  =  WCC test of 180218 automated system                                                      
+       email                        =  215multimediasuite@gmail.com                                                                                   
+       emphasis                     =  15                                                                                                    
+       icon                         =  screenshot.png 
+       logoText                     =  Falls WCC by Coreliu
+       
+       
+photo  Marble.bathroom              =  Slippery floor tiles                                                                                                     
+       url                          =  IMG_8149.jpg                                                                                              
+fact   Marble.bathroom.1            =  Marble is like ice when wet                                                                                       
+fact   Marble.bathroom.2            =  Toilet needs handrails                                                                                                                                   
+
+Photo  Slip.ons                     =  Badly-fitting footwear
+       url                          =  20170723_173449.jpg
+fact   Slip.ons.1                   =  No support for foot
+fact   Slip.ons.2                   =  Slip-ons are dangerous
+
+photo  Corridor                     =  Long, dark corridor
+       url                          =  IMG_8163.jpg
+fact   Corridor.1                   =  Needs chairs for resting
+fact   Corridor.2                   =  It's urgent to increase this lighting
+
+photo  Medication                   =  Medication has side effects
+       url                          =  20170723_205436.jpg
+fact   Medication.1                 =  Can cause dizziness
+fact   Medication.2                 =  Can cause confusion
+
+photo  Obstacles                    =  Obstacles cause trips and falls
+       url                          =  20170723_174449.jpg
+fact   Obstacles.1                  =  Check routes and paths are clear
+fact   Obstacles.2                  =  Obstacles make rooms difficult to navigate
+
+photo  Bright.lights                =  Bright lights can cause disorientation                                                                                                     
+       url                          =  brightlights.jpg                                                                                              
+fact   Bright.lights.1              =  Control or reduce bright lighting                                                                                       
+fact   Bright.lights.2              =  Check that bright lights are not flashing or strobing      
+
+photo  Vision                       =  Vision problems increase the likelihood of falls                                                                                                     
+       url                          =  distortedvision.jpg                                                                                              
+fact   Vision.1                     =  Check glasses are worn to correct vision                                                                                       
+fact   Vision.2                     =  Check for diseases like macular degeneration     
+
+photo  Spills                       =  Water spills make floors very slippy                                                                                                     
+       url                          =  waterspill.jpg                                                                                              
+fact   Spills.1                     =  Remove spills like this immediately                                                                                       
+fact   Spills.2                     =  Wipe up both foods and liquids like this     
+
+photo  Rug                          =  Avoid uneven surfaces                                                                                                     
+       url                          =  rug.jpg                                                                                              
+fact   Rug.1                        =  Thick rugs and worn carpets cause falls                                                                                       
+fact   Rug.2                        =  Check rugs, carpets and other floor coverings are flat and secured      
+
+
+
+
+       
