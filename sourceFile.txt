@@ -4,7 +4,7 @@ app    FallsWCC                     =  Falls WCC
        email                        =  215multimediasuite@gmail.com                                                                                   
        emphasis                     =  15                                                                                                    
        icon                         =  screenshot.png 
-       logoText                     =  Falls WCC by Coreliu       
+       logoText                     =  Falls WCC Coreliu       
        
 photo  Marble.bathroom              =  Slippery floor tiles                                                                                                     
        url                          =  IMG_8149.jpg                                                                                              
