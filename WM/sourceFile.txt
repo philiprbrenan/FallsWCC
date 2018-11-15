@@ -1,4 +1,4 @@
-app    FallsWCC                     =  WCC Washing Machine                                                                  
+app    FallsWCC.WM                  =  WCC Washing Machine                                                                  
        author                       =  215MMS                                                                                            
        description                  =  How to use a washing machine                                                      
        email                        =  215multimediasuite@gmail.com                                                                                   
