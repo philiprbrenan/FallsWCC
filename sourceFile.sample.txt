@@ -45,6 +45,110 @@ fact IMG_8163.1 = First fact about IMG_8163
 fact IMG_8163.2 = Another fact about IMG_8163
 
 
+# Details of photo WashingM1
+photo WashingM1 = Title of WashingM1
+  url = WashingM1.JPG
+
+fact WashingM1.1 = First fact about WashingM1
+fact WashingM1.2 = Another fact about WashingM1
+
+
+# Details of photo WashingM10
+photo WashingM10 = Title of WashingM10
+  url = WashingM10.jpg
+
+fact WashingM10.1 = First fact about WashingM10
+fact WashingM10.2 = Another fact about WashingM10
+
+
+# Details of photo WashingM11
+photo WashingM11 = Title of WashingM11
+  url = WashingM11.jpg
+
+fact WashingM11.1 = First fact about WashingM11
+fact WashingM11.2 = Another fact about WashingM11
+
+
+# Details of photo WashingM12
+photo WashingM12 = Title of WashingM12
+  url = WashingM12.JPG
+
+fact WashingM12.1 = First fact about WashingM12
+fact WashingM12.2 = Another fact about WashingM12
+
+
+# Details of photo WashingM13
+photo WashingM13 = Title of WashingM13
+  url = WashingM13.jpg
+
+fact WashingM13.1 = First fact about WashingM13
+fact WashingM13.2 = Another fact about WashingM13
+
+
+# Details of photo WashingM2
+photo WashingM2 = Title of WashingM2
+  url = WashingM2.jpg
+
+fact WashingM2.1 = First fact about WashingM2
+fact WashingM2.2 = Another fact about WashingM2
+
+
+# Details of photo WashingM3
+photo WashingM3 = Title of WashingM3
+  url = WashingM3.jpg
+
+fact WashingM3.1 = First fact about WashingM3
+fact WashingM3.2 = Another fact about WashingM3
+
+
+# Details of photo WashingM4
+photo WashingM4 = Title of WashingM4
+  url = WashingM4.jpg
+
+fact WashingM4.1 = First fact about WashingM4
+fact WashingM4.2 = Another fact about WashingM4
+
+
+# Details of photo WashingM5
+photo WashingM5 = Title of WashingM5
+  url = WashingM5.jpg
+
+fact WashingM5.1 = First fact about WashingM5
+fact WashingM5.2 = Another fact about WashingM5
+
+
+# Details of photo WashingM6
+photo WashingM6 = Title of WashingM6
+  url = WashingM6.jpg
+
+fact WashingM6.1 = First fact about WashingM6
+fact WashingM6.2 = Another fact about WashingM6
+
+
+# Details of photo WashingM7
+photo WashingM7 = Title of WashingM7
+  url = WashingM7.jpg
+
+fact WashingM7.1 = First fact about WashingM7
+fact WashingM7.2 = Another fact about WashingM7
+
+
+# Details of photo WashingM8
+photo WashingM8 = Title of WashingM8
+  url = WashingM8.jpg
+
+fact WashingM8.1 = First fact about WashingM8
+fact WashingM8.2 = Another fact about WashingM8
+
+
+# Details of photo WashingM9
+photo WashingM9 = Title of WashingM9
+  url = WashingM9.jpg
+
+fact WashingM9.1 = First fact about WashingM9
+fact WashingM9.2 = Another fact about WashingM9
+
+
 # Details of photo brightlights
 photo brightlights = Title of brightlights
   url = brightlights.jpg
