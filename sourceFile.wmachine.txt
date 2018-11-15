@@ -1,1 +1,48 @@
+app    FallsWCC                     =  WCC Washing Machine                                                                  
+       author                       =  215MMS                                                                                            
+       description                  =  How to use a washing machine                                                      
+       email                        =  215multimediasuite@gmail.com                                                                                   
+       emphasis                     =  15                                                                                                    
+       icon                         =  WashingM1.jpg 
+       logoText                     =  Washing Clothes, Coreliu 
+       ordered                      =  always
+       rightInARow                  =  3
 
+
+photo   wm2                         = Pick up the basket
+        url                         = WashingM2.jpg
+        
+photo   wm3                         = Get the COSHH cupboard key
+        url                         = WashingM3.jpg
+        
+photo   wm4                         = Open COSHH cupboard
+        url                         = WashingM4.jpg
+        
+photo   wm5                         = Get the washing tablets
+        url                         = WashingM5.jpg
+        
+photo   wm6                         = Open the washing machine door
+        url                         = WashingM6.jpg
+        
+photo   wm7                         = Loading the washing clothes
+        url                         = WashingM7.jpg
+        
+photo   wm8                         = Put the washing tablets in the machine
+        url                         = WashingM8.jpg
+        
+photo   wm9                         = Close the washing machine door
+        url                         = WashingM9.jpg
+        
+photo   wm10                        = Choose the right cycle
+        url                         = WashingM11.jpg
+        
+photo   wm11                        = Press the ON button
+        url                         = WashingM11.jpg
+        
+photo   wm12                        = Take out the washing clothes
+        url                         = WashingM12.jpg
+        
+photo   wm13                        = Put the damp clothes on the rack
+        url                         = WashingM13.jpg
+        
+        
